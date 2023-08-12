@@ -1,7 +1,7 @@
 # C-LOST_IN_SPACE
 ### Game implemented in C++
 
-![](gameplay.gif)
+<img src="gameplay.gif" width="300" height="200">
 
 Players navigate a spacecraft through the vast cosmos, encountering various elements that make the basic gameplay immersive and engaging. Here's a glimpse of what the game offers:
 
